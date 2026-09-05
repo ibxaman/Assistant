@@ -1,4 +1,4 @@
-MISA CHATBOT PROTOTYPE
+MISA CHATBOT
 =======================
 
 1. Copy the MISA folder to:
